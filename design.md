@@ -236,4 +236,4 @@ Members who are absent from the minutes and photo will not receive a teamwork sc
 | Part 3: Google Maps distances, route comparison and optimal path | David Mungai |
 | Google Maps screenshots | David Mungai |
 
-*Add more meetings in the same format if the group met more than once.*
+
